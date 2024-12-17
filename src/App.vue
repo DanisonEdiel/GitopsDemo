@@ -14,7 +14,7 @@ import TheWelcome from './components/TheWelcome.vue'
 
   <main>
       <h1>¡Hola Mundo con GitOps!</h1>
-      <p>Este es un despliegue básico utilizando GitOps.</p>
+      <p>This is a basic deploy using GitOps.</p>
   </main>
 </template>
 
