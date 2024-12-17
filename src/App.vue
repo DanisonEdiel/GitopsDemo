@@ -13,7 +13,7 @@ import TheWelcome from './components/TheWelcome.vue'
   </header>
 
   <main>
-      <h1>¡Hola Mundo con GitOps!</h1>
+      <h1>¡Hola Mundo .. con GitOps!</h1>
       <p>This is a basic deploy using GitOps.</p>
   </main>
 </template>
